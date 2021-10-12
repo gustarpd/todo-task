@@ -7,10 +7,6 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gustta03/to.do_react">
 
-<!--   <a href="/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-gustta03">
-  </a> -->
-  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gustta03/to.do_react">
   
   <a href="https://github.com/EliasGcf/readme-template/commits/master">
@@ -25,12 +21,12 @@
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
 <div align="center">
-  <img width="860px" src="./assets/todo.gif"/>
+  <img width="860px" src="./assets/demotela.gif"/>
 </div>
 
 ## 🚀 Technologies
@@ -43,7 +39,7 @@ Technologies that I used to develop this web client
 
 
 ## 💻 Demonstração
-- <a href="https://to-doreact.netlify.app/">
+<a href="https://to-doreact.netlify.app/">
   <img src="./assets/demo.png" />
 </a>
 ## 📝 License
