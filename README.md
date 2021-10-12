@@ -22,9 +22,6 @@
   </a>
   
  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
-</p>
-<img src="./assets/todo.gif"/>
-</h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,6 +30,9 @@
   <a href="#-license">License</a>
 </p>
 
+</p>
+<img src="./assets/todo.gif"/>
+</h1>
 
 ## 🚀 Technologies
 
@@ -40,7 +40,6 @@ Technologies that I used to develop this web client
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React Router DOM](https://reacttraining.com/react-router/)
 - [Styled Components](https://styled-components.com/)
 
 
