@@ -43,6 +43,7 @@ Technologies that I used to develop this web client
   <img src="./assets/demo.png" />
 </a>
 <br>
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
