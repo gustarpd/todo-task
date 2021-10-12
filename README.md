@@ -38,7 +38,6 @@ Technologies that I used to develop this web client
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React Router DOM](https://reacttraining.com/react-router/)
 - [Styled Components](https://styled-components.com/)
 
 
