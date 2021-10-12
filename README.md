@@ -23,6 +23,8 @@
   
  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
 </p>
+<img src="./assets/todo.gif"/>
+</h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
