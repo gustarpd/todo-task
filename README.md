@@ -1,4 +1,4 @@
-<h1 align="center">
+/* <h1 align="center">
   To.Do React
 </h1>
 
@@ -51,3 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with 💜 by Gustavo Alves
+*/
