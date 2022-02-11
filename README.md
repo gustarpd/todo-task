@@ -1,5 +1,5 @@
-# to.do_react
-Aplicação de lista listagem de tarefas 
+# todo_react
+Aplicação de listagem de tarefas 
 
 - ReactJs
 - TypeScript
